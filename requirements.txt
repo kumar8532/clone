@@ -1,0 +1,8 @@
+clone/
+│
+├── app.py
+├── model.py
+├── weather_model.pkl
+├── requirements.txt
+├── Procfile (optional)
+└── README.md
