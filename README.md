@@ -1,1 +1,1 @@
-# clone
+# temperature predictions project
